@@ -1,6 +1,7 @@
 .DS_Store
 debug*
 datasets/
+!datasets/download_cyclegan_dataset_re-blocking.sh
 checkpoints/
 results/
 build/

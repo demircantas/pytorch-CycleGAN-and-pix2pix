@@ -6,6 +6,7 @@ if [[ $FILE != "ae_photos" && $FILE != "manhattan" ]]; then
     exit 1
 fi
 
+# ---
 # Demircan's modification
 # From: https://dl.dropboxusercontent.com/scl/fi/rv4p9brw0ouq0a8kcdukh/manhattan.zip?rlkey=jknrhqrezfp7gj6sm78svnv6i&dl=0
 # replace 'www.dropbox.com' with 'dl.dropboxusercontent.com'
